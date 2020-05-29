@@ -1,0 +1,4 @@
+INSERT INTO `contacts` (`id`, `first_name`, `last_name`, `email`, `phone`, `address1`, `address2`, `city`, `state`, `zipcode`, `notes`, `contact_group`, `date_added`) VALUES
+(1, 'Akash', 'Kumar', 'akashkrcse1@gmail.com', '7004250668', 'JD High Street', '', '', 'Jharkhand', '834002', '', 'Family', '2020-05-28 18:25:01'),
+(2, 'Yamuna', 'Patnaik', 'abcdsfhht@gmail.com', '9042578542', '123 Mittal Chambers', 'Nariman Point', 'Mumbai', 'Maharashtra', '400021', '', 'Business', '2020-05-28 18:26:21'),
+(3, 'Vayu', 'Parkar', 'cv5wbsbp8ye@meantinc.com', '02222071074', 'Dr.m.b.velkar Street', '', 'Mumbai', 'Maharashtra', '400002', '', 'Friends', '2020-05-28 18:29:24');
