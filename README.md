@@ -9,16 +9,16 @@
 ****************************************
 #Now Connecting Database
 
-4) Open a browser and go to URL ìhttp://localhost/phpmyadmin/î
+4) Open a browser and go to URL ‚Äúhttp://localhost/phpmyadmin/‚Äù
 5) Then, click on the databases tab
-6) Create a database named "addressbookî and then click on the import tab
-7) Click on browse file and select ìaddress-book.sqlî file which is inside ìDATABASEî folder
+6) Create a database named "addressbook‚Äù and then click on the import tab
+7) Click on browse file and select ‚Äúaddress-book.sql‚Äù file which is inside ‚ÄúDATABASE‚Äù folder
 8) Click on go.
 
 *****************************************
 #After Creating Database,
 
-9) Open a browser and go to URL ìhttp://localhost/addressbook/î
+9) Open a browser and go to URL ‚Äúhttp://localhost/addressbook/‚Äù
 
 _____________________________________________________________________
 
